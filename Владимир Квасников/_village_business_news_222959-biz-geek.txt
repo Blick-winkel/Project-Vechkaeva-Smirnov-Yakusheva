@@ -1,0 +1,46 @@
+Каждый вечер The Village публикует подборку Business Geek о самых значимых событиях российского и зарубежного бизнеса. В этом выпуске: самые высокооплачиваемые видеоблогеры, развитие российского киберспорта и ещё пять новостей.   
+
+
+Самые высокооплачиваемые видеоблогеры
+Американский Forbes представил рейтинг самых высокооплачиваемых YouTube-блогеров. На первом месте оказался швед Феликс Кьелльберг (PewDiePie), заработавший 12 миллионов долларов за год на обзорах игр.
+
+   
+
+
+Автопилот в Tesla
+Tesla Motors выпустила обновление ПО для электромобилей Tesla Model S. Теперь водители смогут активировать автопилот, способный самостоятельно ехать по прямой трассе, менять полосу движения и парковаться.  
+
+   
+
+
+IPO Square
+Платёжный сервис Square, основанный главой Twitter Джеком Дорси в 2009 году, подал заявку на IPO. Компания разместит свои акции на Нью-Йоркской фондовой бирже под тикером SQ. Их количество и цена пока не называются.
+
+   
+
+
+Виртуальная реальность от Facebook
+Глава Facebook Марк Цукерберг продемонстрировал работу виртуального игрового пространства Toybox. В нём владельцы очков Oculus Rift смогут играть друг с другом при помощи различных предметов — кубиков, мячей и рогаток.
+
+   
+
+(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));The craziest Oculus experience I've had recently is playing ping pong in virtual reality. You feel like you're right there with your friend even though they may be halfway around the world. And not only can you hit the ball back and forth, but you can turn gravity up and down to simulate completely different worlds -- outer space, under water and so on.In our new Toybox experience, you can pick up objects, build things and play games. This video shows a few examples of what's possible. What's really amazing is sharing these experiences with your friends. We're getting closer.Posted by Mark Zuckerberg on 14 октября 2015 г.
+
+   
+
+
+Распад «Кинопоиска»
+В «Кинопоиске» произошёл разлад. Проект покидают десять технических специалистов из общего штата в 70 человек. Руководство отмечает, что они относятся к старой команде и увольняются за «нелояльность».
+
+   
+
+
+Развитие российского киберспорта
+USM Holdings Алишера Усманова и его партнёры вложили  более 100 миллионов долларов в киберспортивное сообщество Virtus.pro. Деньги планируется потратить на проведение новых турниров и запуск медиапроектов.
+
+   
+
+
+Новый способ взлома смартфонов
+Французские учёные нашли новый способ взлома смартфонов. Они научились передавать на подключённые к ним аудиогарнитуры радиосигналы, которые незаметно активируют Google Now или Siri.
+

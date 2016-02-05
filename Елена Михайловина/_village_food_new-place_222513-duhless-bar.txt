@@ -1,0 +1,15 @@
+
+
+Писатель Сергей Минаев 15 октября открывает на Тверской улице заведение под названием Духless Bar. Об этом The Village рассказал сам Минаев. 
+«Духless Bar — это писательский бар. Алкоголь занимал важную часть в творчестве большого количества писателей», — рассказывает он. 
+Шеф-барменом в заведении работает Василий Жеглов, который раньше отвечал за напитки в ресторанах Black Thai и «Китайская грамота». А на кухне главная Елена Савчук, курирующая меню во всех винных барах «Хлеб и вино» Минаева. В основе меню — небольшие закуски с азиатским акцентом, которые удобно есть руками. Подавать блюда планируют в маленьких стаканах или ложках.
+
+
+
+
+Духless Bar
+Адрес: улица Тверская, дом 12
+Facebook
+
+
+Музыку для бара подбирает диджей Фёдор Фомин. Другие подробности о новом баре пока не раскрываются. (function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));Раз есть вывеска, открытие не за горами! Уже совсем скоро! Буквально еще пара недель, и мы покажем вам лучший бар года!Posted by Духless Bar on 22 сентября 2015 г.(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));Представим вам команду мечты, которая делает Духless бар. Начнём с барной стойки. Главный по бару, автор нашей бомбиче...Posted by Духless Bar on 24 сентября 2015 г.В начале августа Минаев открыл пятый по счёту в Москве винный бар «Хлеб и вино». 
