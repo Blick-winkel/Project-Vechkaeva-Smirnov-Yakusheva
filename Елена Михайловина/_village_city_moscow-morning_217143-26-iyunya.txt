@@ -1,1 +1,0 @@
- (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//wtrfall.com/widget.js?id=3"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'wtf-embed'));(function() { if (!window.WTF || !WTF.bootstrap || !WTF.bootstrap("wtf-broadcast-2449")) setTimeout(arguments.callee, 50); }());
