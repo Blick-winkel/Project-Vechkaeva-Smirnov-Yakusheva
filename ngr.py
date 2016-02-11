@@ -23,6 +23,7 @@ def open_file(author):
         fname = random.choice(files)
         with open(directory+'/'+fname, encoding='utf-8') as f:
             text = f.read()
+            text = re.sub('\n', '', text)
         texts.append(text)
     return texts
 
@@ -45,15 +46,21 @@ def matrix(files, n):
             else:
                 string.append(0)
         table.append(string)
-    return table
+    return [table, ngs_table]
 
-
+m = matrix(open_file('Владимир Квасников'), 3)
 f = open('matrix.csv', 'w', encoding='utf-8')
 num = 0
-for i in matrix(open_file('Владимир Квасников'), 3):
+f.write('\t')
+for t in m[1]:
+    f.write(t+'\t')
+f.write('\n')
+for i in m[0]:
     num += 1
     f.write('Текст '+str(num) + '\t')
     for e in i:
         f.write(str(e) + '\t')
     f.write('\n')
 f.close()
+print(len(m[1]))
+print(len(m[0][0]))
