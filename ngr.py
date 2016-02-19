@@ -12,7 +12,12 @@ def ngr(string, n):
             ungrams[i] += 1
     for ng in ungrams:
         ungrams[ng] = ungrams[ng]/len(ngrams[2:len(ngrams)-2])
-    return ungrams
+    b = list(ungrams.items())
+    b.sort(key=lambda item:item[1])
+    ungr = {}
+    for i in b[len(b)-10: len(b)]: #тут мкнять длину профиля одного документа
+        ungr[i[0]] = i[1]
+    return ungr
 
 
 def open_file(author):
