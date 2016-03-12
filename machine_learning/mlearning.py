@@ -1,7 +1,7 @@
 import glob
 from sklearn import  linear_model
 from sklearn.feature_extraction import DictVectorizer
-from sclearn.learn import svm
+from sklearn import svm
 
 attributes = []
 answer = []
@@ -30,8 +30,8 @@ def get_data(folder):
 
 
 get_data('.')
+#regr = linear_model.LinearRegression()
 regr = svm.LinearSVC()
-    #= linear_model.LinearRegression()
 v = DictVectorizer()
 training = attributes[::2]
 predict = attributes[1::2]
@@ -42,14 +42,17 @@ result = regr.predict(X1)
 right = 0
 all = 0
 for i in range(len(result)):
-    pre = int(float(result[i])+1)
+    pre = int(float(result[i]))
     ans = int(answer[::2][i])
     if pre == 4:
         pre = 3
     all += 1
     if pre == ans:
        right += 1
-#print('\r\n')
+print(result)
+print(regr.score(X1,answer[::2]))
 print(right,all)
 print(right/all*100)
+#сross-validation, поизменять фичи + Roc кривые.
+
 
