@@ -40,19 +40,19 @@ X1 = v.transform(predict).toarray()
 regr.fit(X, answer[::2])
 result = regr.predict(X1)
 right_texts = 0
-total_texts = 0
+all_texts = 0
 for i in range(len(result)):
     pre = int(float(result[i]))
     ans = int(answer[::2][i])
     if pre == 4:
         pre = 3
-    all += 1
+    all_texts += 1
     if pre == ans:
        right += 1
 print(result)
 print(regr.score(X1,answer[::2]))
-print(right,all)
-print(right/all*100)
+print(right,all_texts)
+print(right/all_texts*100)
 #сross-validation, поизменять фичи + Roc кривые.
 
 
