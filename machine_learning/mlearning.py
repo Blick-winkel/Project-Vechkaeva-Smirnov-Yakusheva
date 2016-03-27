@@ -39,8 +39,8 @@ X = v.fit_transform(training).toarray()
 X1 = v.transform(predict).toarray()
 regr.fit(X, answer[::2])
 result = regr.predict(X1)
-right = 0
-all = 0
+right_texts = 0
+total_texts = 0
 for i in range(len(result)):
     pre = int(float(result[i]))
     ans = int(answer[::2][i])
